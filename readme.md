@@ -25,7 +25,7 @@ Hi! I’m Jawad, a passionate **Web Developer** exploring innovative tech soluti
 * **LinkedIn:** [Jawad Stalker](https://www.linkedin.com/)
 * **Medium:** [jawadvamps](https://medium.com/@jawadvamps)
 * **Website:** [WordPress Portfolio](https://jawadvamps-zdrwf.wordpress.com/)
-* **Email:** [jawad@example.com](mailto:jawad@example.com)
+* **Email:** [jawadvamps@example.com](mailto:jawad@example.com)
 
 ---
 
