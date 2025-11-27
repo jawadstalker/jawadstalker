@@ -1,4 +1,4 @@
-# Jawad Stalker
+# Death Stalker
 
 Hi! I’m Jawad, a passionate **Web Developer** exploring innovative tech solutions and creating engaging projects. I love working on **React, TypeScript, Tailwind**, and building apps that people enjoy using.
 
