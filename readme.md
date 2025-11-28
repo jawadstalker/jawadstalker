@@ -7,7 +7,7 @@ Hi! I’m Jawad, a passionate **Web Developer** exploring innovative tech soluti
 ##  Skills
 
 * **Frontend:** React, TypeScript, HTML, CSS, Tailwind, JavaScript
-* **Tools & Platforms:** Git, GitHub, VS Code, GitHub Pages, Vercel
+* **Tools & Platforms:** Git, GitHub, VS Code, GitHub Pages, Vercel, figma
 * **Other:** Web Scraping, Automation, 3D Animation (Blender), Fantasy Story Writing
 
 ---
