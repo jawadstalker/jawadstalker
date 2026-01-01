@@ -1,6 +1,8 @@
 # Death Stalker
 
 Hi! I’m Jawad, a passionate **Web Developer** exploring innovative tech solutions and creating engaging projects. I love working on **React, TypeScript, Tailwind**, and building apps that people enjoy using.
+in the new year im switching to make games beacuse i could not find a good job for front-end developer...
+may the force be with you!
 
 ---
 
